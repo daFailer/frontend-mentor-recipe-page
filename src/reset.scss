@@ -84,7 +84,7 @@ time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
+	// font: inherit;
 	vertical-align: baseline;
 }
 
@@ -106,9 +106,6 @@ html {
     box-sizing: border-box;
 }
 
-body {
-	line-height: 1;
-}
 ol, ul {
 	list-style: none;
 }
