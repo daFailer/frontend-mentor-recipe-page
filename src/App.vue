@@ -97,5 +97,8 @@
 
 <script lang="ts" src="./App.ts" />
 
-<style lang="scss" module src="./App.scss">
+<style lang="scss" module>
+.App {
+    
+}
 </style>
