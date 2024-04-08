@@ -5,13 +5,19 @@
         </div>
         <ul>
             <li>
-                <strong>Total:</strong> Approximately 10 minutes
+                <p>
+                    <strong>Total</strong>: Approximately 10 minutes
+                </p>
             </li>
             <li>
-                <strong>Preparation:</strong> 5 minutes
+                <p>
+                    <strong>Preparation</strong>: 5 minutes
+                </p>
             </li>
             <li>
-                <strong>Cooking:</strong> 5 minutes
+                <p>
+                    <strong>Cooking</strong>: 5 minutes
+                </p>
             </li>
         </ul>
     </div>

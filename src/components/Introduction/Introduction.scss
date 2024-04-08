@@ -1,5 +1,17 @@
 .Introduction {
+    margin-bottom: 34px;
+
+    .teaserImage {
+        width: 100%;
+        height: auto;
+        border-radius: 12px;
+        margin-bottom: 36px;
+        display: block;
+    }
+
     .headline {
-        font-size: 32px;
+        font-size: 40px;
+        margin-bottom: 19px;
+        color: hsl(24, 5%, 18%);
     }
 }
