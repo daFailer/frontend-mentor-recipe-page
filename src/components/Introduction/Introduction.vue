@@ -1,6 +1,6 @@
 <template>
     <div :class="classList">
-        <img :class="$style.teaserImage" src="/images/omelette.jpeg">
+        <img :class="$style.teaserImage" src="/images/omelette.jpeg" alt="Image of an omelette">
         <h1 :class="$style['headline']">
             Simple Omelette Recipe
         </h1>
