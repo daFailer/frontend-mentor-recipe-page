@@ -13,4 +13,14 @@
         color: hsl(14, 45%, 36%);
         margin-bottom: 20px;
     }
+
+    @media screen and (max-width: 736px){
+        margin-left: 32px;
+        margin-right: 32px;
+
+        &:last-child {
+            padding-bottom: 23px;
+            margin-bottom: 0
+        }
+    }
 }

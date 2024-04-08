@@ -14,4 +14,23 @@
         margin-bottom: 19px;
         color: hsl(24, 5%, 18%);
     }
+
+    @media screen and (max-width: 736px){
+        .teaserImage {
+            border-radius: 0;
+            margin-bottom: 40px;
+        }
+
+        .headline,
+        p {
+            margin-left: 32px;
+            margin-right: 32px;
+        }
+
+        .headline {
+            font-size: 36px;
+            line-height: 1;
+            margin-bottom: 24px;
+        }
+    }
 }

@@ -10,4 +10,11 @@
         margin-bottom: 11px;
         font-weight: 600;;
     }
+
+    @media screen and (max-width: 736px){
+        margin-left: 32px;
+        margin-right: 32px;
+        padding: 17px 24px 20px;
+        margin-bottom: 3px;
+    }
 }
